@@ -4,3 +4,5 @@ Developing an automation pipeline for converting Unstructured Data to Structured
 This structured output text is now used to automate document information processing into a platform as required, using RPA techniques. We used Selenium for the project.
 
 The main.py file can be edited to make additions needed as per user needs, in terms of generating prompts, databases or the required input or output format.
+
+[the software was built and sold to a company, hence only a basic code framework is present in the repository and not the complete software]
